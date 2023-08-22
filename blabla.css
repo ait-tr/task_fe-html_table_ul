@@ -1,0 +1,18 @@
+figure{
+    display: block;
+    float: left;
+}
+body{
+    background-color:rgb(226, 162, 43);
+    font-size:larger;
+    font-style: italic;
+}
+
+figure{
+    float:left ;
+    padding: 10px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+   margin: 0 30px 25px 0;
+}1
